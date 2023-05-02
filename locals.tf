@@ -1,0 +1,3 @@
+locals {
+  MyFirstLambda = "MyFirstLambda"
+}
